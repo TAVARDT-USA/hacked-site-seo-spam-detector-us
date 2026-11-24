@@ -2,6 +2,7 @@
 
 [![SEO Spam Detector](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/seo-spam-detector/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Offensive and defensive security audit utility for spotting cloaked pages, pharma hack injections, unauthorized redirects, and hidden text.
 
@@ -48,6 +49,20 @@ To perform live compromise scans and evaluate web integrity:
 ## Incident Response and Decontamination Advisory
 
 For enterprise malware removal, search engine blacklist appeal support, and compliance with NIST Guidelines and Web Integrity Standards, connect with **TAVARDT**.
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United States](https://ag.tavardt.com/us/) (`TAVARDT-USA`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-USA/00-core)
+* **Diagnostic Portal**: [TAVARDT US Diagnostic Suite](https://tools.tavardt.com/us/)
+* **Enterprise Security**: [TAVARDT US Cybersecurity](https://ag.tavardt.com/us/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
