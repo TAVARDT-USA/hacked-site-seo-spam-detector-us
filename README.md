@@ -5,7 +5,7 @@
 
 Offensive and defensive security audit utility for spotting cloaked pages, pharma hack injections, unauthorized redirects, and hidden text.
 
-Engineered and maintained by the digital forensics and cyber defense division at **TAVARDT USA**.
+Engineered and maintained by the digital forensics and cyber defense division at **TAVARDT**.
 
 ***
 
@@ -47,7 +47,7 @@ To perform live compromise scans and evaluate web integrity:
 
 ## Incident Response and Decontamination Advisory
 
-For enterprise malware removal, search engine blacklist appeal support, and compliance with NIST Guidelines and Web Integrity Standards, connect with **TAVARDT USA**.
+For enterprise malware removal, search engine blacklist appeal support, and compliance with NIST Guidelines and Web Integrity Standards, connect with **TAVARDT**.
 
 ***
 
