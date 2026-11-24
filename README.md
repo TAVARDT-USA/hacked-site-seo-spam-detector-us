@@ -1,4 +1,4 @@
-# Hacked Site and SEO Spam Detector | TAVARDT USA
+# Hacked Site and SEO Spam Detector
 
 [![SEO Spam Detector](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/seo-spam-detector/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ To perform live compromise scans and evaluate web integrity:
 ## Incident Response and Decontamination Advisory
 
 For enterprise malware removal, search engine blacklist appeal support, and compliance with NIST Guidelines and Web Integrity Standards, connect with **TAVARDT USA**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
