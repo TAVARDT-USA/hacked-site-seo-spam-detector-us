@@ -139,8 +139,8 @@ def scan_site_integrity(target_url, timeout=8):
 def main():
     parser = argparse.ArgumentParser(description="TAVARDT USA - Hacked Site and SEO Spam Detector")
     parser.add_argument("target", help="Target domain or URL to inspect")
-    parser.add_argument("--json", action="store_true", help="Output results in JSON format")
-    parser.add_argument("--timeout", type=int, default=8, help="Request timeout in seconds")
+    parser.add_argument("-json", "--json", action="store_true", help="Output results in JSON format")
+    parser.add_argument("-timeout", "--timeout", type=int, default=8, help="Request timeout in seconds")
 
     args = parser.parse_args()
     report = scan_site_integrity(args.target, timeout=args.timeout)
