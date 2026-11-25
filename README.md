@@ -60,6 +60,8 @@ For enterprise malware removal, search engine blacklist appeal support, and comp
 
 ***
 
+***
+
 ### License
 Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
