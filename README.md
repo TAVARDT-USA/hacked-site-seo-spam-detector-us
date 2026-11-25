@@ -6,8 +6,6 @@
 
 Offensive and defensive security audit utility for spotting cloaked pages, pharma hack injections, unauthorized redirects, and hidden text.
 
-Engineered and maintained by the digital forensics and cyber defense division at **TAVARDT**.
-
 ***
 
 ## Forensic Audit and SEO Compromise Capabilities
@@ -37,15 +35,6 @@ python seo_spam_detector.py example.com -json
 
 ***
 
-## Online Diagnostic Suite
-
-To perform live compromise scans and evaluate web integrity:
-
-* **Official Hacked Site and SEO Spam Detector**
-* **TAVARDT Corporate Portal**
-
-***
-
 ## Incident Response and Decontamination Advisory
 
 For enterprise malware removal, search engine blacklist appeal support, and compliance with NIST Guidelines and Web Integrity Standards, connect with **TAVARDT**.
@@ -63,7 +52,7 @@ For enterprise malware removal, search engine blacklist appeal support, and comp
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
